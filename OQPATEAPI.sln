@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OQPATE.API", "OQPATEAPI\OQPATE.API.csproj", "{18BD35E8-3C47-432B-A394-D5BF404064DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OQPATE.DB", "OQPATE.DB\OQPATE.DB.csproj", "{9C3D952A-78BD-41F5-8FBA-4ED5BDCCF16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BD35E8-3C47-432B-A394-D5BF404064DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BD35E8-3C47-432B-A394-D5BF404064DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BD35E8-3C47-432B-A394-D5BF404064DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BD35E8-3C47-432B-A394-D5BF404064DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3D952A-78BD-41F5-8FBA-4ED5BDCCF16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3D952A-78BD-41F5-8FBA-4ED5BDCCF16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3D952A-78BD-41F5-8FBA-4ED5BDCCF16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3D952A-78BD-41F5-8FBA-4ED5BDCCF16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4108484C-30E5-4AB1-A98E-B7FE51F362B6}
+	EndGlobalSection
+EndGlobal
